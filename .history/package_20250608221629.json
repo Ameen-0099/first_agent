@@ -1,0 +1,4 @@
+"scripts": {
+  "build": "next build",  // or your framework’s command
+  "start": "next start"
+}
