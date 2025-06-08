@@ -1,0 +1,2 @@
+from dotenv import load_dotenv     #acces throgh api and save api key
+import 
